@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CookingRecipesApp</string>
+    <string name="search">Busca una receta por nombre o por sus ingredientes</string>
+    <string name="empty_list">¡Uy, Lista de recetas vacía!</string>
+    <string name="title_topbar_home">Lista de recetas</string>
+    <string name="title_topbar_post">Detalle de recetas</string>
+    <string name="title_topbar_map">Lugar de recetas</string>
+</resources>
